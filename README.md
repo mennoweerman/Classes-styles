@@ -1,3 +1,3 @@
 # Classes-styles
 
-Link nar Live versie: 
+Link naar Live versie: 
