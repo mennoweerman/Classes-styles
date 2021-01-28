@@ -1,0 +1,28 @@
+body {
+    background-color: #333333;
+  }
+  
+  .blauw {
+    color: #0000FF;
+    font-size: 18px;
+  }
+  
+  .purple{
+      color: #5F04B4;
+      font-size: 8px;
+  }
+  
+  .green{
+      color: #01DF01;
+      font-size:20px;
+  }
+  
+  .orange{
+      color: #FFBF00;
+      font-size:13px;
+  }
+  
+  .black{
+      color: #190707;
+      font-size:90px;
+  }
